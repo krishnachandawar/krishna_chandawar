@@ -4,7 +4,6 @@ I like researching about various things and I'm eager to learn more and contribu
 
 
 🚀 About Me
-Pronouns: He/Him
 Location: Bengaluru, IN
 Education: BCA (Hons), RV University 
 Current Focus: Grinding through various topics and relevant subjects in the feild of CS which make me feel intresting
